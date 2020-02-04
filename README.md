@@ -1,5 +1,8 @@
 # Masters Thesis
 
+![mind map](https://github.com/nourzein/thesis/blob/master/mind_map.png)
+
+
 ## Literature Review
 
 Resilient Sustainable Cities: a Future; Ed. by Leonie j. Pearson. LONDON: ROUTLEDGE, 2014.
