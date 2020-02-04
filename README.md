@@ -1,6 +1,6 @@
 # Masters Thesis
-
-![mind map](https://github.com/nourzein/thesis/blob/master/mind_map.png)
+mind_map.png
+![mind map](https://github.com/nourzein/thesis/blob/master/mind_map3.png)
 
 
 ## Literature Review
