@@ -9,12 +9,12 @@ Significance: This is because green roofs have immense benefits for climate chan
 - How will we define green roofs for the study?
   - Based on the data available
   - Probably more conservative estimates (i.e not community gardens, but also not potted plants on a roof top)
--	Assumptions need to be made on the kind of plants and space needed to qualify as a green roof (in order to make benefit calculations easier to do)
+  - Assumptions need to be made on the kind of plants and space needed to qualify as a green roof (in order to make benefit calculations easier to do)
 	- Barot, S., Abbadie, L., Auclerc, A., Barthélémy, C., Bérille, E., Billet, P., . . . Dusza, Y. (2019). Urban ecology, stakeholders and the future of ecology. Science of the Total Environment, 667, 475-484. doi:10.1016/j.scitotenv.2019.02.410
--	Where are green roofs located?
+- Where are green roofs located?
   -	The Nature Conservancy Archive of current green roofs
   -	Look at NYC Planning for building records, zip codes, roof footprint
--	Where can they be implemented?
+- Where can they be implemented?
   -	Again, NYC Planning land use and geographic datasets 
   - Case study: Kubi Ackerman (2012)The Potential for Urban Agriculture in NYC. Urban Design Lab and Earth Institute, Columbia University.
 -	What are the benefits of green roofs? 
