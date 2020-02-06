@@ -31,7 +31,7 @@ Significance: This is because green roofs have immense benefits for climate chan
    - Baryła, A., Karczmarczyk, A., Brandyk, A., & Bus, A. (2018). The influence of a green roof drainage layer on retention capacity and leakage quality. Water Science and Technology, 77(12), 2886-2895. doi:10.2166/wst.2018.283
   - De-Ville, S., Menon, M., & Stovin, V. (2018). Temporal variations in the potential hydrological performance of extensive green roof systems. Journal of Hydrology, 558, 564-578. doi:10.1016/j.jhydrol.2018.01.055
   - NYC Department of Environmental Protections
-- Surface temperature reduction: how will this be measured, benefits of this reduction
+ - Surface temperature reduction: how will this be measured, benefits of this reduction
 •	Raster data, LANDSAT
 	Habitat and biodiversity conservation: 
 •	what biodiversity exists in NYC
