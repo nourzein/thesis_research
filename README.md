@@ -8,30 +8,30 @@ Research Question: Where in the city are they located? And where can they be imp
 Significance: This is because green roofs have immense benefits for climate change mitigation and resiliency.
 - How will we define green roofs for the study?
   - Based on the data available
-o	Probably more conservative estimates (i.e not community gardens, but also not potted plants on a roof top)
-	Assumptions need to be made on the kind of plants and space needed to qualify as a green roof (in order to make benefit calculations easier to do)
-o	Barot, S., Abbadie, L., Auclerc, A., Barthélémy, C., Bérille, E., Billet, P., . . . Dusza, Y. (2019). Urban ecology, stakeholders and the future of ecology. Science of the Total Environment, 667, 475-484. doi:10.1016/j.scitotenv.2019.02.410
-	Where are green roofs located?
-o	The Nature Conservancy Archive of current green roofs
-o	Look at NYC Planning for building records, zip codes, roof footprint
-	Where can they be implemented?
-o	Again, NYC Planning land use and geographic datasets 
-o	Case study: Kubi Ackerman (2012)The Potential for Urban Agriculture in NYC. Urban Design Lab and Earth Institute, Columbia University.
-	What are the benefits of green roofs? 
-o	Which ones will be included in the project?
-	Depends on the audience and stakeholders (interconnected but there are environmental benefits and socio-economic ones include all if feasible)
-o	At what level are we measuring benefits?
-	Census tract
-	Community district
-	Sewer shed
-	Tax lot
-	Building?!
-o	The evidence based benefits: 
-	Storm water retention: what it means, how will it be measured
-•	Baryła, A., Karczmarczyk, A., Brandyk, A., & Bus, A. (2018). The influence of a green roof drainage layer on retention capacity and leakage quality. Water Science and Technology, 77(12), 2886-2895. doi:10.2166/wst.2018.283
-•	De-Ville, S., Menon, M., & Stovin, V. (2018). Temporal variations in the potential hydrological performance of extensive green roof systems. Journal of Hydrology, 558, 564-578. doi:10.1016/j.jhydrol.2018.01.055
-•	NYC Department of Environmental Protections
-	Surface temperature reduction: how will this be measured, benefits of this reduction
+  - Probably more conservative estimates (i.e not community gardens, but also not potted plants on a roof top)
+-	Assumptions need to be made on the kind of plants and space needed to qualify as a green roof (in order to make benefit calculations easier to do)
+	- Barot, S., Abbadie, L., Auclerc, A., Barthélémy, C., Bérille, E., Billet, P., . . . Dusza, Y. (2019). Urban ecology, stakeholders and the future of ecology. Science of the Total Environment, 667, 475-484. doi:10.1016/j.scitotenv.2019.02.410
+-	Where are green roofs located?
+  -	The Nature Conservancy Archive of current green roofs
+  -	Look at NYC Planning for building records, zip codes, roof footprint
+-	Where can they be implemented?
+  -	Again, NYC Planning land use and geographic datasets 
+  - Case study: Kubi Ackerman (2012)The Potential for Urban Agriculture in NYC. Urban Design Lab and Earth Institute, Columbia University.
+-	What are the benefits of green roofs? 
+  -	Which ones will be included in the project?
+  - Depends on the audience and stakeholders (interconnected but there are environmental benefits and socio-economic ones include all if feasible)
+- At what level are we measuring benefits?
+  - Census tract
+  -	Community district
+  -	Sewer shed
+  -	Tax lot
+  -	Building?!
+- The evidence based benefits: 
+ - Storm water retention: what it means, how will it be measured
+   - Baryła, A., Karczmarczyk, A., Brandyk, A., & Bus, A. (2018). The influence of a green roof drainage layer on retention capacity and leakage quality. Water Science and Technology, 77(12), 2886-2895. doi:10.2166/wst.2018.283
+  - De-Ville, S., Menon, M., & Stovin, V. (2018). Temporal variations in the potential hydrological performance of extensive green roof systems. Journal of Hydrology, 558, 564-578. doi:10.1016/j.jhydrol.2018.01.055
+  - NYC Department of Environmental Protections
+- Surface temperature reduction: how will this be measured, benefits of this reduction
 •	Raster data, LANDSAT
 	Habitat and biodiversity conservation: 
 •	what biodiversity exists in NYC
