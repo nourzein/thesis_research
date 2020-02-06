@@ -27,21 +27,21 @@ Significance: This is because green roofs have immense benefits for climate chan
   -	Tax lot
   -	Building?!
 - The evidence based benefits: 
- - Storm water retention: what it means, how will it be measured
-   - Baryła, A., Karczmarczyk, A., Brandyk, A., & Bus, A. (2018). The influence of a green roof drainage layer on retention capacity and leakage quality. Water Science and Technology, 77(12), 2886-2895. doi:10.2166/wst.2018.283
-   - De-Ville, S., Menon, M., & Stovin, V. (2018). Temporal variations in the potential hydrological performance of extensive green roof systems. Journal of Hydrology, 558, 564-578. doi:10.1016/j.jhydrol.2018.01.055
+  - Storm water retention: what it means, how will it be measured
+    - Baryła, A., Karczmarczyk, A., Brandyk, A., & Bus, A. (2018). The influence of a green roof drainage layer on retention capacity and leakage quality. Water Science and Technology, 77(12), 2886-2895. doi:10.2166/wst.2018.283
+    - De-Ville, S., Menon, M., & Stovin, V. (2018). Temporal variations in the potential hydrological performance of extensive green roof systems. Journal of Hydrology, 558, 564-578. doi:10.1016/j.jhydrol.2018.01.055
     - NYC Department of Environmental Protections
- - Surface temperature reduction: how will this be measured, benefits of this reduction
- - Raster data, LANDSAT
- - Habitat and biodiversity conservation: 
-   - what biodiversity exists in NYC
-   - how will this be measured
-   - why is it important
-   - what are their habitat needs 
- - Community green space (emotional and mental benefits): criteria of what to include as "emotional and mental" benefits, how to measure this, what the benefits of this are conceptually and potentially
- - Energy consumption reduction--> cost effective: what to include in the cost here, just energy due to heat or also energy due to cooling systems, storm water management, ect..
- - Carbon sequestering
- - Air pollution control
+   - Surface temperature reduction: how will this be measured, benefits of this reduction
+   - Raster data, LANDSAT
+   - Habitat and biodiversity conservation: 
+     - what biodiversity exists in NYC
+     - how will this be measured
+     - why is it important
+     - what are their habitat needs 
+    - Community green space (emotional and mental benefits): criteria of what to include as "emotional and mental" benefits, how to measure this, what the benefits of this are conceptually and potentially
+    - Energy consumption reduction--> cost effective: what to include in the cost here, just energy due to heat or also energy due to cooling systems, storm water management, ect..
+    - Carbon sequestering
+    - Air pollution control
  - How to calculate the benefits?
    - Tabatabaee, S., Mahdiyar, A., Durdyev, S., Mohandes, S. R., & Ismail, S. (2019). An assessment model of benefits, opportunities, costs, and risks of green roof installation: A multi criteria decision making approach. Journal of Cleaner Production, 238 doi:10.1016/j.jclepro.2019.117956
 - Who are the stakeholders? 
