@@ -6,8 +6,8 @@ mind_map.png
 Topic: I am mapping(visualizing) green roof and green roof potential in NYC, to see:
 Research Question: Where in the city are they located? And where can they be implemented?
 Significance: This is because green roofs have immense benefits for climate change mitigation and resiliency.
-	How will we define green roofs for the study?
-o	Based on the data available
+- How will we define green roofs for the study?
+  - Based on the data available
 o	Probably more conservative estimates (i.e not community gardens, but also not potted plants on a roof top)
 	Assumptions need to be made on the kind of plants and space needed to qualify as a green roof (in order to make benefit calculations easier to do)
 o	Barot, S., Abbadie, L., Auclerc, A., Barthélémy, C., Bérille, E., Billet, P., . . . Dusza, Y. (2019). Urban ecology, stakeholders and the future of ecology. Science of the Total Environment, 667, 475-484. doi:10.1016/j.scitotenv.2019.02.410
