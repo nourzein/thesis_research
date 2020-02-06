@@ -19,7 +19,7 @@ Significance: This is because green roofs have immense benefits for climate chan
   - Case study: Kubi Ackerman (2012)The Potential for Urban Agriculture in NYC. Urban Design Lab and Earth Institute, Columbia University.
 - What are the benefits of green roofs? 
   - Which ones will be included in the project?
-  - Depends on the audience and stakeholders (interconnected but there are environmental benefits and socio-economic ones include all if feasible)
+  - Depends on the audience and stakeholders (interconnected but there are environmental benefits and socio-economic ones, include all if feasible)
 - At what level are we measuring benefits?
   - Census tract
   -	Community district
@@ -29,33 +29,33 @@ Significance: This is because green roofs have immense benefits for climate chan
 - The evidence based benefits: 
  - Storm water retention: what it means, how will it be measured
    - Baryła, A., Karczmarczyk, A., Brandyk, A., & Bus, A. (2018). The influence of a green roof drainage layer on retention capacity and leakage quality. Water Science and Technology, 77(12), 2886-2895. doi:10.2166/wst.2018.283
-  - De-Ville, S., Menon, M., & Stovin, V. (2018). Temporal variations in the potential hydrological performance of extensive green roof systems. Journal of Hydrology, 558, 564-578. doi:10.1016/j.jhydrol.2018.01.055
-  - NYC Department of Environmental Protections
+   - De-Ville, S., Menon, M., & Stovin, V. (2018). Temporal variations in the potential hydrological performance of extensive green roof systems. Journal of Hydrology, 558, 564-578. doi:10.1016/j.jhydrol.2018.01.055
+    - NYC Department of Environmental Protections
  - Surface temperature reduction: how will this be measured, benefits of this reduction
-•	Raster data, LANDSAT
-	Habitat and biodiversity conservation: 
-•	what biodiversity exists in NYC
-•	how will this be measured
-•	why is it important
-•	what are their habitat needs 
-	Community green space (emotional and mental benefits): criteria of what to include as "emotional and mental" benefits, how to measure this, what the benefits of this are conceptually and potentially
-	Energy consumption reduction--> cost effective: what to include in the cost here, just energy due to heat or also energy due to cooling systems, storm water management, ect..
-	Carbon sequestering
-	Air pollution control
-	How to calculate the benefits?
-o	Tabatabaee, S., Mahdiyar, A., Durdyev, S., Mohandes, S. R., & Ismail, S. (2019). An assessment model of benefits, opportunities, costs, and risks of green roof installation: A multi criteria decision making approach. Journal of Cleaner Production, 238 doi:10.1016/j.jclepro.2019.117956
-	Who are the stakeholders? 
-o	How to design for specific stakeholders with varied interests
-o	Stakeholders
-	Policy makers
-	Urban planners
-	Environmental activists/ affordable housing NGOs
-	Academic
-o	Goals:
-	I want to the tool to encourage research and funding for nature-based solutions like green roofs for climate change impacts on cities. 
-	I want the tool to encourage policy makers to make nature-based solutions like green roofs easy to implement (and cheap! Tax cuts?!)
-	I want homeowners to be persuaded to implement green roofs
-o	It has to be easy to read and navigate (academics and policy makers are not artists) 
+ - Raster data, LANDSAT
+ - Habitat and biodiversity conservation: 
+   - what biodiversity exists in NYC
+   - how will this be measured
+   - why is it important
+   - what are their habitat needs 
+ - Community green space (emotional and mental benefits): criteria of what to include as "emotional and mental" benefits, how to measure this, what the benefits of this are conceptually and potentially
+ - Energy consumption reduction--> cost effective: what to include in the cost here, just energy due to heat or also energy due to cooling systems, storm water management, ect..
+ - Carbon sequestering
+ - Air pollution control
+ - How to calculate the benefits?
+   - Tabatabaee, S., Mahdiyar, A., Durdyev, S., Mohandes, S. R., & Ismail, S. (2019). An assessment model of benefits, opportunities, costs, and risks of green roof installation: A multi criteria decision making approach. Journal of Cleaner Production, 238 doi:10.1016/j.jclepro.2019.117956
+- Who are the stakeholders? 
+  - How to design for specific stakeholders with varied interests
+  - Stakeholders
+    - Policy makers
+    - Urban planners
+    - Environmental activists/ affordable housing NGOs
+    - Academic
+ - Goals:
+   - I want to the tool to encourage research and funding for nature-based solutions like green roofs for climate change impacts on cities. 
+  - I want the tool to encourage policy makers to make nature-based solutions like green roofs easy to implement (and cheap! Tax cuts?!)
+  - I want homeowners to be persuaded to implement green roofs
+  - It has to be easy to read and navigate (academics and policy makers are not artists) 
 
 ## Literature Review
 
