@@ -3,10 +3,10 @@ mind_map.png
 ![mind map](https://github.com/nourzein/thesis/blob/master/mind_map3.png)
 
 # Outline 
-Topic: I am mapping(visualizing) green roof and green roof potential in NYC, to see:
-Research Question: Where in the city are they located? And where can they be implemented?
-Significance: This is because green roofs have immense benefits for climate change mitigation and resiliency.
-The ###  Goal is to build a tool that would be used cross-discipline (government, academia, buisiness)
+### Topic: I am mapping(visualizing) green roof and green roof potential in NYC, to see:
+### Research Question: Where in the city are they located? And where can they be implemented?
+### Significance: This is because green roofs have immense benefits for climate change mitigation and resiliency.
+### Goal is to build a tool that would be used cross-discipline (government, academia, buisiness)
 - How will we define green roofs for the study?
   - Based on the data available
   - Probably more conservative estimates (i.e not community gardens, but also not potted plants on a roof top)
