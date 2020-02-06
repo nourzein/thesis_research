@@ -17,8 +17,8 @@ Significance: This is because green roofs have immense benefits for climate chan
 - Where can they be implemented?
   -	Again, NYC Planning land use and geographic datasets 
   - Case study: Kubi Ackerman (2012)The Potential for Urban Agriculture in NYC. Urban Design Lab and Earth Institute, Columbia University.
--	What are the benefits of green roofs? 
-  -	Which ones will be included in the project?
+- What are the benefits of green roofs? 
+  - Which ones will be included in the project?
   - Depends on the audience and stakeholders (interconnected but there are environmental benefits and socio-economic ones include all if feasible)
 - At what level are we measuring benefits?
   - Census tract
