@@ -1,9 +1,12 @@
 # Masters Thesis
 ## Systems Diagram
 
+![part1](https://github.com/nourzein/thesis/blob/master/part1.jpg)
+![part2](https://github.com/nourzein/thesis/blob/master/part2.jpg)
 ![system diagram](https://github.com/nourzein/thesis/blob/master/Green%20Roof%20Potential%20Tool.png)
 ![general_](https://github.com/nourzein/thesis/blob/master/general_.jpg)
 ![specific_](https://github.com/nourzein/thesis/blob/master/specific_.jpg)
+
 
 
 ![mind map](https://github.com/nourzein/thesis/blob/master/mind_map3.png)
